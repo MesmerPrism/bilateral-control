@@ -1,0 +1,13 @@
+{
+  "schema": "bilateral.static-projection.v1",
+  "hostingOrigin": "https://bilateral.mesmerprism.com",
+  "appPath": "/bilateral-control/",
+  "sourceRepository": "https://github.com/MesmerPrism/MesmerPrism.github.io",
+  "sourceRevision": "8fc44e4fd64fa66207b4e4c42895f95dc46441e0",
+  "sourceSubtree": "bilateral-control",
+  "sourceTree": "c6a8dbfa209abe7b9f912735a3b9cd2fc4dfc500",
+  "runtimeRepository": "https://github.com/MesmerPrism/QuestMultiStream",
+  "runtimeRevision": "bd1d05473256e3bfaa100655422552c0eee139d6",
+  "licenseSourcePath": "LICENSE",
+  "licenseSha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+}
